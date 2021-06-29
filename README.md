@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ### Banu Ayozturk
+ ### Banu Ayozturk
 
-  Full Stack Web Developer
+    Full Stack Web Developer
+    
+ # I am a coding bootcamp student who is passionate about learning new technologies and applying them to create innovative projects. Some technologies I enjoy are CSS, Javascript and API's.   
